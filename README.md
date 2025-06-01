@@ -90,3 +90,7 @@ python lumina_signal.py
 ## 📜 Licença
 
 Projeto desenvolvido exclusivamente para fins acadêmicos – FIAP – 2025.
+
+
+![image](https://github.com/user-attachments/assets/f01a564f-dc81-472a-8a1f-56a8b0c7f83b)
+
