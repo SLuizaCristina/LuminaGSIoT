@@ -91,6 +91,9 @@ python lumina_signal.py
 
 Projeto desenvolvido exclusivamente para fins acadêmicos – FIAP – 2025.
 
+### 📷 Imagens:
 
+![Captura de tela 2025-06-01 001500](https://github.com/user-attachments/assets/c1e2edac-4f63-4e10-acd2-02a628be5961)
+![image](https://github.com/user-attachments/assets/213393cb-c173-4d8f-a05b-1b6f64d50222)
 ![image](https://github.com/user-attachments/assets/f01a564f-dc81-472a-8a1f-56a8b0c7f83b)
 
